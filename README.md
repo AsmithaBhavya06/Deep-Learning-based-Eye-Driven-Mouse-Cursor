@@ -31,7 +31,6 @@ Open your mouth wide to toggle input mode for precise cursor movement.
 
 **Code Overview**
 The application uses Dlib's pre-trained facial landmark detector to identify key facial regions:
-
 Eyes: Calculating the Eye Aspect Ratio (EAR) to detect blinks.
 Mouth: Calculating the Mouth Aspect Ratio (MAR) to detect wide openings.
 Nose: Tracking the nose tip for cursor movement.
